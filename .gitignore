@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+*.sln
 
 # Build results
 
@@ -42,6 +43,9 @@ build/
 *.pidb
 *.log
 *.scc
+*.BAK
+*.ico
+*.xls
 
 # Visual C++ cache files
 ipch/
